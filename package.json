@@ -21,8 +21,5 @@
     },
     "peerDependencies": {
         "react": ">=16.8.1"
-    },
-    "dependencies": {
-        "tweezer.js": "^1.5.0"
     }
 }
